@@ -24,6 +24,7 @@
         <module>04-netty-tcp</module>
         <module>05-netty-separate-decode</module>
         <module>10-netty-http</module>
+        <module>11-netty-websocket</module>
     </modules>
 
     <properties>
