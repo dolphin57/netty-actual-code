@@ -22,6 +22,7 @@
     <modules>
         <module>03-netty-starter</module>
         <module>04-netty-tcp</module>
+        <module>05-netty-separate-decode</module>
     </modules>
 
     <properties>
