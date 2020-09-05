@@ -21,6 +21,7 @@
 
     <modules>
         <module>03-netty-starter</module>
+        <module>04-netty-tcp</module>
     </modules>
 
     <properties>
